@@ -1,0 +1,31 @@
+.container {
+  padding-top: 25px;
+  width: 70%;
+}
+
+.searchbox {
+  margin: 30px auto;
+  background-color: white;
+  padding: 10px;
+  width: 60%;
+  border-radius: 15px;
+}
+.searchicon {
+  padding-right: 10px;
+  margin: 10px;
+}
+
+.inputbox {
+  width: 90%;
+  font-size: 1.1rem;
+
+  border-radius: 15px;
+  border: none;
+}
+.inputbox:focus {
+  outline: none;
+}
+
+.middle {
+  margin-top: 80px;
+}

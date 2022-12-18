@@ -1,0 +1,13 @@
+.pagination-btn {
+  margin: 10px;
+  border-radius: 10px;
+  padding: 0 15px;
+  background-color: rgb(152, 140, 238);
+}
+
+.pagination-input {
+  width: 3rem;
+  text-align: center;
+  border: none;
+  background-color: rgb(193, 249, 213);
+}
