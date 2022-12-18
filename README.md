@@ -1,10 +1,10 @@
 # Kalkani System Task
 
 Implemented a Anime Search web application having these key features
-  -showing data in order to most liked anime
-  -Pagination functionality where you can jump to custom pages also because this app contains multiple pages.
-  -Search your favorite anime using live search functionality having support of debouncing to provide better search results for bigger data with providing some delay in loading of searched data.
-  -Nice interactive UI
+  * showing data in order to most liked anime
+  * Pagination functionality where you can jump to custom pages also because this app contains multiple pages.
+  * Search your favorite anime using live search functionality having support of debouncing to provide better search results for bigger data with providing some delay in loading of searched data.
+  * Nice interactive UI
 
 ## To Download this project
  1. Clone the repository
